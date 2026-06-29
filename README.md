@@ -43,7 +43,7 @@ Welcome to my digital workspace. I bridge the gap between complex technical syst
 
 ---
 
-## 📬 Let's Connect! * 📂 **My Work Portfolio:** [View My Writing Samples](./portfolio/README.md)
+## 📬 Let's Connect!  📂 **My Work Portfolio:** [View My Writing Samples](./portfolio/README.md)
 
 
 If you want to turn your rough ideas into polished, publication-ready pieces, let's chat.
